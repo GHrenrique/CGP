@@ -1,0 +1,12 @@
+Instalar NPM na Máquina.
+Instalar Node na Máquina.
+Instalar Gulp na Máquina.
+---------------
+[npm init] - Na pasta do projeto.
+Instalar Gulp na pasta do projeto.
+Instalar os plugins sass/watch na pasta do projeto.
+Configurar o gulpfile.js
+Rodar a task do CMD para iniciar o gulp
+---------------
+Ver plugins instalados:
+npm ls --depth=0

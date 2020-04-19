@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate-front-end",
+  "version": "1.0.0",
+  "description": "Boilerplate Front-end",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://danlimah@bitbucket.org/danlimah/boilerplate-front-end.git"
+  },
+  "author": "Daniel Lima",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/danlimah/boilerplate-front-end#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.3",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-refresh": "^1.1.0",
+    "gulp-ruby-sass": "^2.1.0",
+    "gulp-server-livereload": "^1.9.0",
+    "gulp-watch": "^4.3.10"
+  }
+}
